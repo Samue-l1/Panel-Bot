@@ -306,7 +306,7 @@ const reply = async (teks) => {
                 title: `𝐏𝐁𝐕-𝐕1🦄`,
                 body: `𝐛𝐲 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒`,
                 previewType: "VIDEO",
-                thumbnailUrl: `https://i.imgur.com/N1zWDRi.jpeg`,
+                thumbnailUrl: `https://telegra.ph/file/7f1e9da89011736a82473.jpg`,
                 sourceUrl: `${global.url1}`,
                 mediaUrl: `${global.url1}`
             }
@@ -372,7 +372,7 @@ sam.sendMessage(m.chat, {
                             showAdAttribution: true,
                             title: `𝐏𝐁𝐕-𝐕1`,
                             body: `𝕶𝖎𝖓𝖌 𝕾𝖆𝖒`,
-                            thumbnailUrl: `https://i.imgur.com/N1zWDRi.jpeg`, 
+                            thumbnailUrl: `https://telegra.ph/file/7f1e9da89011736a82473.jpg`, 
                             sourceUrl: `https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e`,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -607,7 +607,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
@@ -732,7 +732,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -856,7 +856,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -980,7 +980,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -1104,7 +1104,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -1228,7 +1228,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -1352,7 +1352,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -1476,7 +1476,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
@@ -1600,7 +1600,7 @@ Bot Sends Panel Data Only 1x
 ━━━━━━━━━━━━━━━━━━━━━
 © 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
 `
-sam.sendMessage(u, { image: { url: 'https://i.imgur.com/N1zWDRi.jpeg' }, caption: ctf }, { quoted: m })
+sam.sendMessage(u, { image: { url: 'https://telegra.ph/file/7f1e9da89011736a82473.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json();
 let startup_cmd = data2 && data2.attributes && data2.attributes.startup ? data2.attributes.startup : "";
 let f3 = await fetch(domain + "/api/application/servers", {
