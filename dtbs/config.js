@@ -21,9 +21,9 @@ global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
 global.delayjpm = 3500
 //Panel
-global.domain = 'https://kingsam.sellerpterodactyl.me/' // your admin panel domian
-global.apikey = 'ptlc_FHIA2cpVBnzTYUGy2u7aHuoZI20041rid00C9W6MDT8' // Your admin panel apikey
-global.capikey = 'ptla_kpqg9JHcxRBeoCtNXuQ23mZsGXVnXALDc2AgqDGRsns' // Your admin panel capikey
+global.domain = '' // your admin panel domian
+global.apikey = '' // Your admin panel apikey
+global.capikey = '' // Your admin panel capikey
 global.egg = '15' // 
 global.location = '1' // 
 global.thumbnailpanel = 'https://i.imgur.com/N1zWDRi.jpeg'
